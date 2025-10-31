@@ -49,7 +49,7 @@ Me chamo Carlos Henrique Campos, tenho 20 anos. Estudante de Ciências da Comput
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Java-icon.png](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <br/>
