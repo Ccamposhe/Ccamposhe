@@ -1,47 +1,35 @@
 # 👨‍💻 Carlos Henrique
 
-**`Desenvolvedor BackEnd`**
+**`Backend Developer`**
 
-Me chamo Carlos Henrique Campos, tenho 20 anos. Estudante de Ciências da Computação com formação técnica em Informática pelo IFPI. Adoro muito tecnologia e atualmente estou me dedicando na área de BackEnd.
+☕ Backend Developer | Java & Spring Boot
+🎓 Computer Science Student | IFPI Alumni
+🧩 LeetCode Solver: Passionate about logic and complex problem-solving.
+🛠️ Tech: Java, Python, PostgreSQL, React & Linux.
+📍 Teresina, Brazil | 🔗 linkedin.com/in/ccamposhe
 
 
 ---
 
-### 💻 Linguagens:
+### 💻 Specialties:
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="REACT" 
+    title="REACT"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
 />
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <img 
     align="left" 
