@@ -2,33 +2,16 @@
 
 **`Backend Developer`**
 
-☕ Backend Developer | Java & Spring Boot
-🎓 Computer Science Student | IFPI Alumni
-🧩 LeetCode Solver: Passionate about logic and complex problem-solving.
-🛠️ Tech: Java, Python, PostgreSQL, React & Linux.
-📍 Teresina, Brazil | 🔗 linkedin.com/in/ccamposhe
+☕ Backend Developer | Java & Spring Boot <br/>
+🎓 Computer Science Student | IFPI Alumni <br/>
+🧩 LeetCode Solver: Passionate about logic and complex problem-solving.<br/>
+🛠️ Tech: Java, Python, PostgreSQL, React & Linux.<br/>
+📍 Teresina, Brazil | 🔗 linkedin.com/in/ccamposhe<br/>
 
 
 ---
 
 ### 💻 Specialties:
-
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
-/>
-<img 
-    align="left" 
-    alt="REACT" 
-    title="REACT"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
-/>
 
 
 <img 
@@ -39,6 +22,24 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="REACT" 
+    title="REACT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+
 
 <br/>
 <br/>
